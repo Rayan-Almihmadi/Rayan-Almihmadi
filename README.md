@@ -16,7 +16,8 @@
 
 ###
 
-<p align="left">🎓 Junior Computer Science Student.<br>🌑 Interested in self-development programming as a developer.<br>⚙️ I'm currently learning Java, C++, python, and git.<br>🦇 Night learner, day debugger.</p>
+<p align="left">🎓 Junior Computer Science Student.<br>🌑 Interested in self-development programming as a developer.<br>⚙️ I'm currently learning Java, C++, python, and git.<br>🦇 Night learner, day debugger.
+</p>
 
 ###
 
