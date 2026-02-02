@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&pause=1200&color=7F7F7F&center=true&vCenter=true&width=650&lines=I+am+not+a+hero%0AI+am+a+developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&pause=1200&color=7F7F7F&center=true&vCenter=true&width=650&lines=I+am+not+a+hero%0AI+am+a+developer." />
 </p>
 
 ###
