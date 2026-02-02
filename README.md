@@ -1,6 +1,6 @@
-<p align="center">
+<H1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=I%20am%20not%20a%20hero.%20I%20am%20a%20developer.&fontSize=22&fontColor=7f7f7f&fontAlign=50&fontAlignY=50" />
-</p>
+</H1>
 
 ###
 
