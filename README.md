@@ -1,14 +1,6 @@
-<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#0d1117"/>
-
-  <text x="50%" y="50%"
-        text-anchor="middle"
-        fill="#7f7f7f"
-        font-size="28"
-        font-family="Orbitron, monospace">
-    I am not a hero. I am a developer.
-  </text>
-</svg>
+<H1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=7F7F7F&center=true&vCenter=true&width=600&lines=I+am+not+a+hero.;I+am+a+developer." />
+</H1>
 
 
 ###
