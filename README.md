@@ -1,6 +1,15 @@
-<H1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=I%20am%20not%20a%20hero.%20I%20am%20a%20developer.&fontSize=22&fontColor=7f7f7f&fontAlign=50&fontAlignY=50" />
-</H1>
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+
+  <text x="50%" y="50%"
+        text-anchor="middle"
+        fill="#7f7f7f"
+        font-size="28"
+        font-family="Orbitron, monospace">
+    I am not a hero. I am a developer.
+  </text>
+</svg>
+
 
 ###
 
