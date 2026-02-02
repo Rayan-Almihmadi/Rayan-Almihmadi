@@ -7,7 +7,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=7F7F7F&center=true&vCenter=true&width=600&lines=I+am+not+a+hero.;I+am+a+developer." />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=I%20am%20not%20a%20hero.%20I%20am%20a%20developer.&fontSize=22&fontColor=7f7f7f&fontAlign=50&fontAlignY=50" />
 </p>
 
 ###
