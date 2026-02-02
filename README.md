@@ -1,26 +1,41 @@
-<p align="center">
-  🦇
-</p>
+<h1 align="left">I'm Rayan 🦇</h1>
 
-<h1 align="center">I am Rayan</h1>
-<h3 align="center">🦇 The Code Knight</h3>
+###
 
-<p align="center">
-  <i>"I am not a hero. I am a developer."</i>
-</p>
+<h3 align="left">The code Knight 🦇</h3>
 
----
+###
 
-## 🖤 About Me
-- 🎓 Computer Science Student  
-- 🌑 I work in silence, let the code speak  
-- ⚙️ Focused on: Java • C++ • Data Structures  
-- 🦇 Night learner, day debugger  
+<p align="left">"I am not a hero. I am a developer."</p>
 
----
+###
 
-## 🦇 Skills Arsenal
-```text
-🖥️ Languages      : Java, C++, Python (Basics)
-🧠 Core CS        : OOP, Data Structures, Algorithms
-🛠️ Tools          : Git, GitHub, VS Code, IntelliJ
+<h2 align="left">About me 🖤</h2>
+
+###
+
+<p align="left">🎓 Junior Computer Science Student.<br>🌑 Interested in self-development programming as a developer.<br>⚙️ I'm currently learning Java, C++, python, and git.<br>🦇 Night learner, day debugger.</p>
+
+###
+
+<h2 align="left">🦇 Skills Arsenal</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
