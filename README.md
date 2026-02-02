@@ -1,7 +1,6 @@
 <H1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=7F7F7F&center=true&vCenter=true&width=600&lines=I+am+not+a+hero.;I+am+a+developer." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=7F7F7F&center=true&vCenter=true&width=600&lines=I+am+not+a+hero.&lines=I+am+a+developer." />
 </H1>
-
 
 ###
 
