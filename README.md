@@ -1,5 +1,11 @@
 <h1 align="center">I'm Rayan</h1>
+<h3 align="center">Junior Computer Science Student 💻</h3>
+
 <p align="left"> <a href="https://twitter.com/qkwc_1" target="blank"><img src="https://img.shields.io/twitter/follow/qkwc_1?logo=twitter&style=for-the-badge" alt="qkwc_1" /></a> </p>
+
+- 🌱 I’m currently learning **Java and C++.**
+
+- 📫 How to reach me **rmihmadi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
