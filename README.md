@@ -22,7 +22,6 @@
 - ⚡ **Current Mission:** Building end-to-end data projects with Python, SQL & Power BI
 - 🛠️ **Workflow:** Clean notebooks, Git-driven version control, reproducible analysis
 - 🦇 **Philosophy:** Silent execution, visible impact
-- 📍 **Looking for:** Data Analyst / Data Science co-op opportunity (next semester)
 
 ---
 
