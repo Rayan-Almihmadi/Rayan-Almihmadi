@@ -22,6 +22,7 @@
 - ⚡ **Current Mission:** Building end-to-end data projects with Python, SQL & Power BI
 - 🛠️ **Workflow:** Clean notebooks, Git-driven version control, reproducible analysis
 - 🦇 **Philosophy:** Silent execution, visible impact
+- 📍 **Looking for:** Data Analyst / Data Science co-op opportunity (next semester)
 
 ---
 
@@ -51,12 +52,11 @@
 
 ## 📂 Featured Projects
 
-| Project | What it answers | Tools |
+| Project | What it covers | Tools |
 |---|---|---|
-| [**HR Employee Attrition Analysis**](https://github.com/Rayan-Almihmadi/REPO-NAME) | Why do employees leave, and who is most at risk? | Python, Pandas, scikit-learn, Power BI |
-| [**Data Science Jobs Analysis**](https://github.com/Rayan-Almihmadi/REPO-NAME) | Which skills, roles and salaries dominate the data job market? | Python, Pandas, Power BI |
+| [**🛒 Online Store Database**](https://github.com/Rayan-Almihmadi/online-store-db) | Relational database design for an online store: ER model, schema with constraints, sample data, JOINs, aggregations, subqueries and a reporting view | MySQL, SQL |
 
-> More projects are on the way. Each one follows the same structure: business question, cleaning, EDA, modeling, dashboard, conclusions.
+> 🚧 **Coming soon:** HR Employee Attrition Analysis (Python + Power BI) and Data Science Jobs Analysis.
 
 ---
 
