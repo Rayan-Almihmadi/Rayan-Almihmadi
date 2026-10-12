@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=I+am+not+a+hero.;I+am+a+developer.;The+Code+Knight+rises." alt="Typing SVG" />
-</div>
-
 <h1 align="center">Hey, I'm Rayan 🦇</h1>
 
 <p align="center">
