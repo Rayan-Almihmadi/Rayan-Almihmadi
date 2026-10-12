@@ -53,7 +53,7 @@
 
 | Project | What it covers | Tools |
 |---|---|---|
-| [**🛒 Online Store Database**](https://github.com/Rayan-Almihmadi/online-store-db) | Relational database design for an online store: ER model, schema with constraints, sample data, JOINs, aggregations, subqueries and a reporting view | MySQL, SQL |
+| [**🛒 Online Store Database**](https://github.com/Rayan-Almihmadi/online-store-database) | Relational database design for an online store: ER model, schema with constraints, sample data, JOINs, aggregations, subqueries and a reporting view | MySQL, SQL |
 
 > 🚧 **Coming soon:** HR Employee Attrition Analysis (Python + Power BI) and Data Science Jobs Analysis.
 
