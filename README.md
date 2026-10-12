@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Rayan 🦇</h1>
 
 <p align="center">
-  <strong>Computer Science Student | Software & Data Enthusiast</strong><br>
-  <em>"Night learner, day analis"</em>
+  <strong>Computer Science Student | Software & Data Analyst</strong><br>
+  <em>"Night Learner, Day Analyst"</em>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 <div align="center">
   <!-- Languages & Core Tools -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,mysql,git,vscode,idea&theme=dark&perline=9" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=java,python,vscode,mysql,git,html,idea&theme=dark&perline=9" alt="Skills" />
   </a>
 </div>
 
