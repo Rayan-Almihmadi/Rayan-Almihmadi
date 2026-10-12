@@ -1,44 +1,51 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=24&duration=4000&pause=1200&color=7F7F7F&center=true&vCenter=true&width=650&lines=I+am+not+a+hero.%0AI+am+a+developer." />
-</p>
-
-###
-
-<h1 align="left">I'm Rayan 🦇</h1>
-
-###
-
-<h3 align="left">The code Knight 🦇</h3>
-
-###
-
-<h2 align="left">About me 🖤</h2>
-
-###
-
-<p align="left">🎓 Junior Computer Science Student.<br>🌑 Interested in self-development programming as a developer.<br>⚙️ I'm currently learning Java, C++, python, and git.<br>🦇 Night learner, day debugger.
-</p>
-
-###
-
-<h2 align="left">🦇 Skills Arsenal</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=I+am+not+a+hero.;I+am+a+developer.;The+Code+Knight+rises." alt="Typing SVG" />
 </div>
 
-###
+<h1 align="center">Hey, I'm Rayan 🦇</h1>
+
+<p align="center">
+  <strong>Computer Science Student | Software & Data Enthusiast</strong><br>
+  <em>"Night learner, day debugger."</em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rayan-almihmadi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 🌑 About The Batcave
+
+- 🎓 **Focus:** Computer Science, diving into Software Engineering, Data Analysis, and AI.
+- ⚡ **Current Mission:** Building practical tools, analyzing datasets, and crafting clean code.
+- 🛠️ **Workflow:** Clean architectures, Git-driven version control, and continuous optimization.
+- 🦇 **Philosophy:** Silent execution, visible impact.
+
+---
+
+### 🦇 Skills Arsenal
+
+<div align="center">
+  <!-- Languages & Core Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,mysql,git,vscode,idea&theme=dark&perline=9" alt="Skills" />
+  </a>
+</div>
+
+---
+
+### 📊 Batcave Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Almihmadi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Almihmadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rayan-Almihmadi&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
